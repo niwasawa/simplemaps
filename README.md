@@ -21,8 +21,8 @@ Using Sample Code
 One: Download example/app.js and example/template.html
 
 ```
-wget https://github.com/niwasawa/simplemaps/blob/master/example/app.js
-wget https://github.com/niwasawa/simplemaps/blob/master/example/template_html
+wget https://raw.githubusercontent.com/niwasawa/simplemaps/master/example/app.js
+wget https://raw.githubusercontent.com/niwasawa/simplemaps/master/example/template.html
 ```
 
 Two: Modify appid at example/app.js
