@@ -5,6 +5,9 @@ This code is experimental and unstable.
 
 [![npm version](https://badge.fury.io/js/simplemaps.svg)](https://badge.fury.io/js/simplemaps)
 
+Source Code: https://github.com/niwasawa/simplemaps
+Node.js npm: https://www.npmjs.com/package/simplemaps
+
 This is a Simple Chizu (Simple Map) Web Application.
 This uses Yahoo! JAPAN Developer Network YOLP(Map) Static Map API http://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/static.html
 
