@@ -1,7 +1,7 @@
 {
   "server_port": 8888,
   "base_url": "/maps/",
-  "template_html": "template.html",
+  "template_html": "test/template.html",
   "appid": "<Your Application ID by Yahoo! JAPAN Developer Network>",
   "mapspec": {
     "width": 600,

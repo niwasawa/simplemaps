@@ -3,7 +3,7 @@
 var http   = require('http');
 var url    = require('url');
 var config = require('./appconfig.json');
-var simplemaps = require('./index');
+var simplemaps = require('../index');
 
 var server = http.createServer(function(req, res) {
 
