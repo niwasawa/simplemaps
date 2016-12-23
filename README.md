@@ -41,4 +41,5 @@ Four: Access Simple Maps Web Application Server
 
 Access to http://localhost:8888/maps/ by your web browser.
 
+![Sample: Simple Maps Web Application Server](https://github.com/niwasawa/simplemaps/raw/master/simplemap.png "Sample: Simple Maps Web Application Server")
 
