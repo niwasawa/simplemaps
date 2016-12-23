@@ -22,7 +22,7 @@ One: Download example/app.js and example/template.html
 
 ```
 wget https://github.com/niwasawa/simplemaps/blob/master/example/app.js
-wget https://github.com/niwasawa/simplemaps/blob/master/example/template_html
+wget https://github.com/niwasawa/simplemaps/blob/master/example/template.html
 ```
 
 Two: Modify appid at example/app.js
