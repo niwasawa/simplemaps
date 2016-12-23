@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Sample: Simple Maps Web Application Server</title>
+</head>
+<body>
+
+<h1>Sample: Simple Maps Web Application Server</h1>
+
+<div>Zoom:
+  <a href="./?lat={{lat}}&amp;lon={{lon}}&amp;z={{zplus}}">[+]</a>
+  <a href="./?lat={{lat}}&amp;lon={{lon}}&amp;z={{zminus}}">[-]</a>
+</div>
+
+<div>
+  <form action="./">
+    <input type="hidden" name="lat" value="{{lat}}">
+    <input type="hidden" name="lon" value="{{lon}}">
+    <input type="hidden" name="z" value="{{z}}">
+    <input type="image" name="mapimage" alt="simple maps" title="simple maps" width="{{width}}" height="{{height}}" src="http://map.olp.yahooapis.jp/OpenLocalPlatform/V1/static?appid={{appid}}&amp;lat={{lat}}&amp;lon={{lon}}&amp;z={{z}}&amp;mode=map&amp;width={{width}}&amp;height={{height}}&amp;autoscale=off">
+  </form>
+</div>
+
+<div>
+  <!-- Begin Yahoo! JAPAN Web Services Attribution Snippet -->
+  <a href="http://developer.yahoo.co.jp/about">
+  <img src="http://i.yimg.jp/images/yjdn/yjdn_attbtn1_88_35.gif" width="88" height="35" title="Webサービス by Yahoo! JAPAN" alt="Web Services by Yahoo! JAPAN" border="0" style="margin:15px 15px 15px 15px"></a>
+  <!-- End Yahoo! JAPAN Web Services Attribution Snippet -->
+</div>
+
+</body>
+</html>
+
