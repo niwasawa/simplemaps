@@ -1,6 +1,6 @@
 {
   "name": "simplemaps",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Simple Maps Web Application Server",
   "main": "index.js",
   "scripts": {
